@@ -1,0 +1,8 @@
+
+input  { text-align: center; }
+.div1  { align-items: center; text-align: center; font-family: serif; line-height: 1.6; }
+body   { background-color: #d0d5fd; margin: 0 10%; font-family:sans-serif; }
+h1     { text-align: center; font-family: serif; font-weight: bold; text-transform: uppercase; border-bottom: 3px solid #F01A01; margin-top: 30px; }
+h2     { font-size: 1.35em; font-family: serif; text-decoration: underline; }
+h3     { font-size: 1em; font-family:sans-serif; }
+p      { margin-left: 30px; font-family:sans-serif; }
